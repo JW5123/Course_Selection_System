@@ -30,7 +30,7 @@
         "instructor": "葉春秀",
         "compulsory": "必修",
         "credits": 1,
-        "act_students": 1,
+        "act_students": 2,
         "max_students": 60,
         "day_of_week": {
             "一": [],
@@ -121,7 +121,7 @@
         "instructor": "葉春秀",
         "compulsory": "選修",
         "credits": 2,
-        "act_students": 0,
+        "act_students": 1,
         "max_students": 30,
         "day_of_week": {
             "一": [],
@@ -275,7 +275,7 @@
         "description": "此課程將提供學生對於生物資訊研究應具備之基本知識。將強調生物資訊之基本觀念，以及如何運用資訊科技於生命科學之研究。將介紹生命科學所需要之電腦技術。將介紹生物資訊上常用之資料庫，軟體工具及其開發。"
     },
     {
-        "status": "已開課",
+        "status": "已停開",
         "course_id": "1404",
         "course_name": "資料結構",
         "instructor": "李俊宏",
@@ -506,5 +506,53 @@
         },
         "location": "科航206 科航205",
         "description": "本課程主要在介紹網路通訊的概念。藉由介紹數位通訊原理及技術、訊息編碼、網路協定原理、網路架構及其理論基礎使學生瞭解數位通訊、網路協定及網路技術與其架構並認識TCP/IP協定架構和網際網路的原理。"
+    },
+    {
+        "status": "已開課",
+        "course_id": "Test",
+        "course_name": "Test",
+        "instructor": "林峰正",
+        "compulsory": "選修",
+        "credits": 3,
+        "act_students": 1,
+        "max_students": 50,
+        "day_of_week": {
+            "一": [
+                "3",
+                "4"
+            ],
+            "二": [],
+            "三": [],
+            "四": [
+                "4"
+            ],
+            "五": []
+        },
+        "location": "資電304",
+        "description": "Test"
+    },
+    {
+        "status": "已開課",
+        "course_id": "測試",
+        "course_name": "測試",
+        "instructor": "薛念林",
+        "compulsory": "必修",
+        "credits": 3,
+        "act_students": 1,
+        "max_students": 50,
+        "day_of_week": {
+            "一": [
+                "3",
+                "4"
+            ],
+            "二": [],
+            "三": [],
+            "四": [
+                "4"
+            ],
+            "五": []
+        },
+        "location": "資電304",
+        "description": "測試"
     }
 ]
