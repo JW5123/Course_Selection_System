@@ -1,7 +1,7 @@
 <h1 align="center">Course Selection System</h1>
 
 <p align="center">
-  該專案為根據撰寫的使用案例與測試案例，實作逢甲選課系統<br>
+  該專案為根據撰寫的使用案例與功能需求，實作逢甲選課系統<br>
   內容資料來源為 <a href="https://coursesearch03.fcu.edu.tw/main.aspx?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTA3NTc1NjN9.5z0NZm2xjLnbnAiy0mIy80jNaAD00ezVXzd7bB-HWVQ" target="_blank">逢甲大學課程檢索</a> 公開資訊
 </p>
 
